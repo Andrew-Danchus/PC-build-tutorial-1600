@@ -27,7 +27,7 @@
 
     
 ### **Components** 
-###I would recommend using a site like [PC Part Picker](https://pcpartpicker.com/), it will allow you to sort thruogh parts by price, and technical capabilities, also it will point out any incompatibilities with your selected components.
+### I would recommend using a site like [PC Part Picker](https://pcpartpicker.com/), it will allow you to sort thruogh parts by price, and technical capabilities, also it will point out any incompatibilities with your selected components.
 
 -Case  
 -Motherboard 
