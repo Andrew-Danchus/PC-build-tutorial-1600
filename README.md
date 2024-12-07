@@ -1,5 +1,6 @@
 # PC-build-tutorial-1600
 ## A brief tutorial on how to build a PC, for anyone who needs assistance!
+### If you would find it easier to follow along with a video here's one I reccomend[Linus Tech Tips](
 ### By Andrew Danchus
 
 1. [Required Tools/Components](#required-tools-and-components)
@@ -26,7 +27,27 @@
 
     
 ### **Components** 
-#####I would reccomend using a site like [PC Part Picker](https://pcpartpicker.com/)
+###I would reccomend using a site like [PC Part Picker](https://pcpartpicker.com/), it will allow you to sort thruogh parts by price, and technical capabilities, also it will point out any incompatibilities with your selected components.
 
 -Case  
 -Motherboard 
+-CPU
+-CPU Cooler
+-RAM
+-Storage (I would reccomend an SSD)
+-Graphics Card
+-Power Supply (Make sure it is strong enough for your componenets)
+-Operating system (Install it onto an external drive, there will usually be a version to install on the OS developers website - you will need to purchase a key for some features)
+## **Step-by-Step assembly 
+
+### **Install the CPU**
+1. Open the CPU socket on the motherboard (examine motherboard manual if you are unsure where it is)
+2. Align the CPU with the socket(there will be a triangle usually on the bottom left corner)
+3. Gently place the CPU into the socket, and close it once it is secure.
+
+### **Attatch the CPU cooler**
+1. Apply a small amount of themral paste to the CPU inside the socket. (Most new coolers have thermal paste pre-applied)
+2. Attatch the cooler to the CPU and screw in the brackets. (Follow the manual, the insallation process varies by product.)
+
+### **Install RAM**
+1. Open the RAM slots on the Motherboard
