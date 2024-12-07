@@ -82,8 +82,11 @@
 
 ### **Connecting the Cables**
 -24-pin cable motherboard to the motherboard. 
+
 -CPU power cable.
+
 -SATA cables for the storage drives.
+
 -GPU power cable
 
 ## **Final Checks**
