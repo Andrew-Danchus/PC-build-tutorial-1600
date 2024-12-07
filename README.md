@@ -21,7 +21,9 @@
 ### **Tools** 
 
 -Phillips-head screwdriver
--(optional) Anti-static wrist guard (to ensure parts aren't damaged from static electricity - avoid building on carpet)
+
+-(optional) Anti-static wrist guard (to ensure parts aren't damaged from static electricity: avoid building on carpet)
+
 -(optional) zip ties (If you're lazy and unorganized like me, you can disregard this)
     -Scissors (if you opt to use zipties)
 
