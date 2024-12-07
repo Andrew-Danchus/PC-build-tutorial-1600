@@ -42,7 +42,7 @@
 
 ### **Install the CPU**
 1. Open the CPU socket on the motherboard (examine motherboard manual if you are unsure where it is)
-2. Align the CPU with the socket(there will be a triangle usually on the bottom left corner)
+2. Align the CPU with the socket(there will be a triangle usually on the bottom left corner)![triangle](https://www.ifixit.com/Guide/How+to+Fix+Bent+CPU+Pins/140367)
 3. Gently place the CPU into the socket, and close it once it is secure.
 
 ### **Attatch the CPU cooler**
