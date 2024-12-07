@@ -30,13 +30,21 @@
 ### I would recommend using a site like [PC Part Picker](https://pcpartpicker.com/), it will allow you to sort thruogh parts by price, and technical capabilities, also it will point out any incompatibilities with your selected components.
 
 -Case  
+
 -Motherboard 
+
 -CPU
+
 -CPU Cooler
+
 -RAM
+
 -Storage (I would recommend an SSD if you are looking for efficiency)
+
 -Graphics Card
+
 -Power Supply (Make sure it is strong enough for your componenets)
+
 -Operating system (Install it onto an external drive, there will usually be a version to install on the OS developers website - you will need to purchase a key for some features)
 
 ## **Step-by-Step assembly**
