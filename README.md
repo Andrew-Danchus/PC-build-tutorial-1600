@@ -23,7 +23,10 @@
 -(optional) Anti-static wrist guard (to ensure parts aren't damaged from static electricity - avoid building on carpet)
 -(optional) zip ties (If you're lazy and unorganized like me, you can disregard this)
     -Scissors (if you opt to use zipties)
+
+    
 ### **Components** 
 #####I would reccomend using a site like [PC Part Picker](https://pcpartpicker.com/)
+
 -Case  
 -Motherboard 
