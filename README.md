@@ -39,7 +39,7 @@
 -Power Supply (Make sure it is strong enough for your componenets)
 -Operating system (Install it onto an external drive, there will usually be a version to install on the OS developers website - you will need to purchase a key for some features)
 
-## **Step-by-Step assembly 
+## **Step-by-Step assembly**
 
 ### I would recommend reading the manuals and installation guides provided with each component, because many of the specific instructions vary by manufacturer. 
 
@@ -48,7 +48,7 @@
 2. Align the CPU with the socket. (there will be a triangle usually on the bottom left corner)![triangle](https://www.ifixit.com/Guide/How+to+Fix+Bent+CPU+Pins/140367)
 3. Gently place the CPU into the socket, and close it once it is secure.
 
-### **Attatch the CPU cooler**
+### **Attatch the cooler**
 1. Apply a small amount of themral paste to the CPU inside the socket. (Most new coolers have thermal paste pre-applied)
 2. Attatch the cooler to the CPU and screw in the brackets. (Follow the manual, the insallation process varies by product)
 
@@ -75,7 +75,6 @@
 -CPU power cable.
 -SATA cables for the storage drives.
 -GPU power cable
-
 
 ## **Final Checks**
 
